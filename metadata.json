@@ -1,0 +1,5 @@
+{
+  "name": "Recova",
+  "description": "A recovery awareness app that estimates perceived recovery readiness using user-logged training intensity and sleep quality.",
+  "requestFramePermissions": []
+}
